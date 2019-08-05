@@ -1,5 +1,7 @@
+<i>* Individual Work</i>
+
 # Prediction on Streams of Spotify's Daily Most Listened Songs
-* Individual Work
+
 <img src='./spotify/Spotify.jpg' width=250>
 
 ## To run the notebook
