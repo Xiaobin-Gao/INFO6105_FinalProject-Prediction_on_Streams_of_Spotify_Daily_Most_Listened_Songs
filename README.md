@@ -1,4 +1,4 @@
-<i>* Individual Work</i>
+<i><b>* Individual Work</b></i>
 
 # Prediction on Streams of Spotify's Daily Most Listened Songs
 
