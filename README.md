@@ -1,4 +1,4 @@
-# Prediction on Streams of Spotify's Daily Most Listened Songs <span><i><b>* Individual Work</b></i></span>
+<h1>Prediction on Streams of Spotify's Daily Most Listened Songs<h1><span><i><b>* Individual Work</b></i></span>
 
 <img src='./spotify/Spotify.jpg' width=250>
 
