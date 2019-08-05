@@ -3,8 +3,8 @@
 
 ## To run the notebook
 
-** Make sure you have jupyter notebook installed on your laptop. <a href='https://jupyter.readthedocs.io/en/latest/install.html'>Check this out </a> 
-if you haven't set up jupyter notebook yet.<br><br>
+<i>** Make sure you have jupyter notebook installed on your laptop. <a href='https://jupyter.readthedocs.io/en/latest/install.html'>Check this out </a> 
+if you haven't set up jupyter notebook yet.</i><br><br>
 Now we're good to go:
 <ol>
 <li> Open a terminal window</li>
